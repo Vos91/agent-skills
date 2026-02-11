@@ -1,7 +1,13 @@
 ---
 name: ecommerce-copywriting
 version: 1.0.0
-description: When the user wants to write copy for e-commerce websites, webshops, or online stores. Use when building product pages, product descriptions, checkout flows, category pages, transactional emails, cart copy, or any online store copy. Also use when the user mentions "product description," "checkout copy," "e-commerce copy," "webshop copy," "abandoned cart email," or "order confirmation." Covers single and bulk product descriptions, cart/checkout UX copy, trust signals, promotional copy, SEO meta content, and email sequences.
+description: >
+  When the user wants to write copy for e-commerce websites, webshops, or online stores.
+  Use when building product pages, product descriptions, checkout flows, category pages,
+  transactional emails, cart copy, or any online store copy. Also use when the user mentions
+  product description, checkout copy, e-commerce copy, webshop copy, abandoned cart email,
+  or order confirmation. Covers single and bulk product descriptions, cart/checkout UX copy,
+  trust signals, promotional copy, SEO meta content, and email sequences.
 ---
 
 # E-commerce Copywriting
