@@ -6,7 +6,7 @@ Custom AI agent skills for Claude Code, Cursor, Windsurf, and other coding assis
 
 | Skill | Description | Install |
 |-------|-------------|---------|
-| [ecommerce-copywriting](./skills/ecommerce-copywriting/) | High-converting copy for e-commerce stores | `npx skills add Vos91/agent-skills/ecommerce-copywriting` |
+| [ecommerce-copywriting](./ecommerce-copywriting/) | High-converting copy for e-commerce stores | `npx skills add Vos91/agent-skills/ecommerce-copywriting` |
 
 ## Installation
 
